@@ -1,7 +1,7 @@
 {
   "name": "nodejs-msbsru-stock-it",
   "version": "1.0.0",
-  "description": "For project universaity",
+  "description": "Project for universaity",
   "main": "index.js",
   "scripts": {
     "dev": "tsx index"
