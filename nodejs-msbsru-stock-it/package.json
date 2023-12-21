@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-msbsru-stock-it",
+  "version": "1.0.0",
+  "description": "For project universaity",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx index"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.7.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
